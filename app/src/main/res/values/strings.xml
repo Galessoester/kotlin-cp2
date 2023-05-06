@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">EsterGalesso_RM89350</string>
+    <string name="nome" translatable="false">Bita</string>
+    <string name="descricao">Description</string>
+    <string name="txtDescricao">Happy and content, I sing to cheer up the children!</string>
+    <string name="abilidades">Skills</string>
+    <string name="txtAbilidades">No skills</string>
+    <string name="txtBtnAbilidade">add skill</string>
+    <string name="noturno">night mode</string>
+</resources>

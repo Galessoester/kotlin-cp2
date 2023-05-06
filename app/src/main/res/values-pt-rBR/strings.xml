@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="descricao">Descrição</string>
+    <string name="txtDescricao">Feliz e contente, canto para alegrar a criançada!</string>
+    <string name="abilidades">Abilidades</string>
+    <string name="txtAbilidades">nenhuma abilidade</string>
+    <string name="txtBtnAbilidade">Adicionar Abilidade</string>
+    <string name="noturno">modo noturno</string>
+</resources>
